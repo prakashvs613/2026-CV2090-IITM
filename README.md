@@ -29,14 +29,15 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 | Tutorial-1 | Foundations of Probability           | 03-Aug-2026 |
 | Tutorial-2 | Total Probability, Bayes', PMF           | 13-Aug-2026 |
 | Tutorial-3 | Probability distributions, mean, variance          | 20-Aug-2026 |
+| Tutorial-4 | Joint Random Variables          | 07-Sep-2026 |
 
 
 ## **References**
 
 **Textbooks:**
 
-1. **Benjamin, J.R. and Cornell, C.A., *Probability, Statistics and Decisions for Civil Engineers*, John Wiley & Sons, 1970.**
-2. Ang, A.H.-S. and Tang, W.H., *Probability Concepts in Engineering Planning and Design*, Volumes I and II, John Wiley & Sons, 1975.
+1. **Ang, A.H.-S. and Tang, W.H., *Probability Concepts in Engineering Planning and Design*, Volumes I and II, John Wiley & Sons, 1975.**
+2. Benjamin, J.R. and Cornell, C.A., *Probability, Statistics and Decisions for Civil Engineers*, John Wiley & Sons, 1970.
 3. Papoulis, A., *Probability, Random Variables and Stochastic Processes*, 3rd Edition, McGraw-Hill, 1991.
 4. Nowak, A.S. and Collins, K.R., *Reliability of Structures*, 2nd Edition, CRC Press, 2012.
 5. Der Kiureghian, A., *Structural and System Reliability*, Cambridge University Press, 2022.
